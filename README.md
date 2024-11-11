@@ -13,3 +13,5 @@ I have chosen the following font https://fonts.google.com/specimen/Kodchasan
 
 I asked ChatGPT for suggested colour scheme and it came up with this:
 https://coolors.co/f5efe6-b4d0e7-a8d5ba-333333-f2a488
+
+Wireframe https://www.figma.com/design/QxpaSyZvgtB34CZAvvcuvI/Figma-basics?node-id=1669-162202&t=hkeutaOBfdGWxEAj-1
