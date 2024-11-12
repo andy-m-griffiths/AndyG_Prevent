@@ -4,6 +4,14 @@
     font-style: normal;
 }
 
+.warm-beige {
+    background-color: #F5EFE6;
+    /* background-color: green; */
+
+}
+
+
+
 .hero-page {
     background-image: url('/assets/images/robert-bye-4hcpIbqQM8c-unsplash.jpg');
     background-size: cover;
@@ -12,7 +20,6 @@
 }  
 
 .container {
-    background-image: url('/assets/images/robert-bye-4hcpIbqQM8c-unsplash.jpg');
     background-size: cover;
     background-position: center;
 }
