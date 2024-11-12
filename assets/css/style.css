@@ -11,11 +11,6 @@
     font-style: normal;
 }
 
-/* .kodchasan-regular.small {
-    margin-bottom: 0.3rem;
-} */
-
-
 .warm-beige {
     background-color: #F5EFE6;
 }
@@ -25,7 +20,7 @@
 }
 
 
-.hero-page {
+.hero-panel {
     background-image: url('/assets/images/robert-bye-4hcpIbqQM8c-unsplash.jpg');
     background-size: cover;
     background-position: center;
