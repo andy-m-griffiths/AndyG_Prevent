@@ -39,6 +39,7 @@ a {
     background-image: url('../images/robert-bye-4hcpIbqQM8c-unsplash.webp');
     background-size: cover;
     background-position: center;
+    min-height:  500px;
 }  
 
 .container {
