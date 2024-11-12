@@ -1,7 +1,7 @@
 /* Custom small font size for entire website */
 /* overriding the bootstrap size to allow more text to be displayed */
 .small {
-    font-size: 0.75rem;
+    font-size: 1.2rem;
     margin-bottom: 0.3rem;
 }
 
@@ -36,7 +36,7 @@ a {
 }
 
 .hero-panel {
-    background-image: url('/assets/images/robert-bye-4hcpIbqQM8c-unsplash.jpg');
+    background-image: url('../images/robert-bye-4hcpIbqQM8c-unsplash.jpg');
     background-size: cover;
     background-position: center;
 }  
