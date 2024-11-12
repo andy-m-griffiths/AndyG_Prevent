@@ -11,12 +11,20 @@
     font-style: normal;
 }
 
+.text-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 10);
+}
+
 .warm-beige {
     background-color: #F5EFE6;
 }
 
 .dark-charcoal {
     background-color: #333333;
+}
+
+.soft-blue {
+    background-color: #B4D0E7;
 }
 
 a {
@@ -31,7 +39,6 @@ a {
     background-image: url('/assets/images/robert-bye-4hcpIbqQM8c-unsplash.jpg');
     background-size: cover;
     background-position: center;
-    color: white;
 }  
 
 .container {
@@ -40,14 +47,14 @@ a {
 }
 
 .glass-panel {
-    color: #fff;
+    color: white;
     margin: 20px auto;
-    background-color: rgba(255,255,255,0.1);
+    background-color: rgba(255,255,255,0.01);
     border: 1px solid rgba(255,255,255,0.1);
     width: 100%;
     border-radius: 15px;
     padding: 8px;
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(3px);
 }
 
 .info-panel {
