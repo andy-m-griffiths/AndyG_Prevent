@@ -23,12 +23,16 @@
     background-color: #333333;
 }
 
+.dark-charcoal-color {
+    color: #333333;
+}
+
 .soft-blue {
     background-color: #B4D0E7;
 }
 
-a {
-    color: #333333;
+a, nav, footer {
+    color:#333333;
 }
 
 .warm-coral {
@@ -36,7 +40,7 @@ a {
 }
 
 .hero-panel {
-    background-image: url('../images/robert-bye-4hcpIbqQM8c-unsplash.webp');
+    background-image: url('../images/robert-bye-4hcpIbqQM8c-unsplash-dimmed.webp');
     background-size: cover;
     background-position: center;
     min-height:  500px;
